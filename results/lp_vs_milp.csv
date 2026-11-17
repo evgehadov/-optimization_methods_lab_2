@@ -1,0 +1,6 @@
+сценарий,LP_статус,MILP_статус,LP_время_ч,MILP_время_ч,цели_совпали,назначения_совпали,LP_решение_целое,MILP_gap,MILP_узлов,LP_мс,MILP_мс
+базовый,optimal,optimal,40.0,40.0,True,True,True,0.0,1.0,0.373,0.482
+дефицитный_1,optimal,optimal,47.0,47.0,True,True,True,0.0,1.0,0.372,0.474
+дефицитный_2,optimal,optimal,48.0,48.0,True,True,True,0.0,1.0,0.368,0.47
+стрессовый,optimal,optimal,56.4,56.4,True,True,True,0.0,1.0,0.368,0.483
+несовместный,infeasible,infeasible,,,,,,,,0.255,0.245
